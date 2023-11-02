@@ -20,7 +20,7 @@
 
 [TOC]
 
-##Ultrasonic Sensor  HC-SR05
+## Ultrasonic Sensor  HC-SR05
 It's a key component for providing distance-sensing capabilities to the robot:
 The HC-SR05 Ultrasonic Sensor is a popular choice for sumo robots and other applications that require accurate distance detection.
 
@@ -32,11 +32,11 @@ The HC-SR05 sensor is easy to use and provides precise distance measurements. It
 
 Overall, the HC-SR05 Ultrasonic Sensor is a valuable tool in the sumobot's arsenal, enabling it to interact with its environment and make strategic movements during competitions.
 
-##Infrared sensor
+## Infrared sensor
 An Infrared Line Follower Sensor for a sumobot designed to detect and follow lines on the ground. 
 It consists of infrared emitters and detectors. When the sensor is placed close to the ground, the emitted infrared light reflects off the surface. By measuring the intensity of the reflected light, the sensor can determine whether it is over a line or not. 
 
-##Finite State Machine
+## Finite State Machine
 A Finite State Machine (FSM) used to control a sumobot is a simple but effective approach to manage the robot's behavior. Here's a brief description:
 
 A Finite State Machine for a sumobot is a control system that divides the robot's behavior into different states. Each state represents a specific action or condition.
@@ -52,7 +52,7 @@ The transitions between states are based on sensor data. For instance, when an o
 Drivers for USB Blaster : https://drive.google.com/file/d/12VrMxbNCbq21ysZJNTrTCtWa-x5MYNCg/view?usp=sharing
 
 
-#PLD Properties
+# PLD Properties
                     
 CPLD  | Altera/Intel MAXII EPM240T100C5
 ------------- | -------------
