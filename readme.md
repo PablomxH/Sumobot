@@ -2,7 +2,8 @@
 
 - Ultrasonic sensor (HC-SR05);
 - Finit State Machine to control the robot;
-
+- Project make it in a CPLD Max II : https://drive.google.com/file/d/1sOSu2xsb7QN7RkP8cLZheCLhE9-IWt7M/view
+- Portfolio: https://pablomxh.github.io/
 
 # Sumobot project
 
